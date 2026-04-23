@@ -19,14 +19,7 @@ redirect_from:
 
 I am a Ph.D. student at the [University of Sydney](https://www.sydney.edu.au/), supervised by [A/Prof. Chang Xu](https://changxu.xyz/). Before joining USYD, I spent one year at the [City University of Hong Kong](https://www.cityu.edu.hk/) as a Research Assistant under the supervision of [A/Prof. Minjing Dong](https://www.cs.cityu.edu.hk/~minjdong/). I received my Master's degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm), where I was advised by [Prof. Xiaojie Guo](https://sites.google.com/view/xjguo), and my Bachelor's degree from [Central South University](https://en.csu.edu.cn/).
 
-My research focuses on **efficient and generalizable visual perception**. I am particularly interested in:
-
-- **Multimodal Large Language Models (MLLMs)**, with an emphasis on fine-grained perception and efficient vision-language-action models.
-- **State Space Models** (e.g., Mamba) for vision.
-- **Vision Foundation Models**, including training-free open-vocabulary segmentation.
-- **Object detection** in images and videos.
-
-I have published at top-tier venues including ICLR, ICCV, NeurIPS, AAAI, and IJCV. See my <a href='https://scholar.google.com/citations?user=sn2PeEkAAAAJ'>Google Scholar</a> <a href='https://scholar.google.com/citations?user=sn2PeEkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> for the full list.
+My research focuses on **efficient and generalizable visual perception**, including Multimodal Large Language Models (MLLMs) with an emphasis on fine-grained perception and efficient vision-language-action models, State Space Models (e.g., Mamba) for vision, Vision Foundation Models for training-free open-vocabulary segmentation, and object detection in images and videos.
 
 
 # 🔥 News
