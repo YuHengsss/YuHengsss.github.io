@@ -136,6 +136,8 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**, Zehao Huang, Yan Yan, Naiyan Wang, Xiaojie Guo</div>
 
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/tusen-ai/TSTTC) [![stars](https://img.shields.io/github/stars/tusen-ai/TSTTC?style=social)](https://github.com/tusen-ai/TSTTC)</div>
+
 <div class="pub-venue" markdown="span">arXiv:2309.01539, 2023</div>
 
 </div>
