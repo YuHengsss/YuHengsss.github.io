@@ -155,7 +155,7 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 # 💼 Work Experience
 - *2024 – 2025*, Research Assistant, City University of Hong Kong. Supervised by A/Prof. Minjing Dong and A/Prof. Chang Xu.
-- *2022 – 2023*, Research Intern, TuSimple. Supervised by Naiyan Wang and Zehao Huang.
+- *2022 – 2023*, Research Intern, TuSimple. Supervised by Dr. Naiyan Wang and Zehao Huang.
 
 # 🛎 Academic Services
 - **Conference Reviewer**: NeurIPS, ICLR, ICML, ICCV, ECCV.
