@@ -10,12 +10,21 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
+    {% if author.chinese_name %}<h4 class="author__name" style="margin-top:-0.4em; font-weight: normal;">{{ author.chinese_name }}</h4>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
+      <li>
+        <i class="fas fa-fw fa-language" aria-hidden="true"></i>
+        {% if page.lang == 'zh' %}
+          <a href="/">English</a> | <strong>中文</strong>
+        {% else %}
+          <strong>English</strong> | <a href="/zh/">中文</a>
+        {% endif %}
+      </li>
       {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
