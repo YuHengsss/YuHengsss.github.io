@@ -42,17 +42,89 @@ I have published at top-tier venues including ICLR, ICCV, NeurIPS, AAAI, and IJC
 
 <sup>†</sup> denotes equal contribution.
 
-- [Catching the Details: Self-Distilled RoI Predictors for Fine-Grained MLLM Perception](https://arxiv.org/abs/2509.16944). **Yuheng Shi**, Xiaohuan Pei, Minjing Dong, Chang Xu. *ICLR*, 2026. [\[Code\]](https://github.com/YuHengsss/SD-RPN)
-- [Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation](https://arxiv.org/abs/2509.22093). Xiaohuan Pei, Yuxing Chen, **Yuheng Shi**, Siyu Xu, Yunke Wang, Chang Xu. *ICLR*, 2026.
-- [Practical Video Object Detection via Feature Selection and Aggregation](https://arxiv.org/abs/2407.19650). **Yuheng Shi**<sup>†</sup>, Tong Zhang<sup>†</sup>, Xiaojie Guo. *IJCV*, 2026. [\[Code\]](https://github.com/YuHengsss/YOLOV)
-- [VSSD: Vision Mamba with Non-Causal State Space Duality](https://openaccess.thecvf.com/content/ICCV2025/html/Shi_VSSD_Vision_Mamba_with_Non-Causal_State_Space_Duality_ICCV_2025_paper.html). **Yuheng Shi**, Minjing Dong, Mingjia Li, Chang Xu. *ICCV*, 2025. [\[Code\]](https://github.com/YuHengsss/VSSD)
-- [Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation](https://openaccess.thecvf.com/content/ICCV2025/html/Shi_Harnessing_Vision_Foundation_Models_for_High-Performance_Training-Free_Open_Vocabulary_Segmentation_ICCV_2025_paper.html). **Yuheng Shi**, Minjing Dong, Chang Xu. *ICCV*, 2025. [\[Code\]](https://github.com/YuHengsss/Trident)
-- [Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d69e771d9f274f7c624198ea74f5b98-Abstract-Conference.html). **Yuheng Shi**, Minjing Dong, Chang Xu. *NeurIPS*, 2024. [\[Code\]](https://github.com/YuHengsss/MSVMamba)
-- [YOLOV: Making Still Image Object Detectors Great at Video Object Detection](https://ojs.aaai.org/index.php/AAAI/article/view/25320). **Yuheng Shi**, Naiyan Wang, Xiaojie Guo. *AAAI*, 2023. [\[Code\]](https://github.com/YuHengsss/YOLOV)
+[Catching the Details: Self-Distilled RoI Predictors for Fine-Grained MLLM Perception](https://arxiv.org/abs/2509.16944)
+
+**Yuheng Shi**, Xiaohuan Pei, Minjing Dong, Chang Xu
+
+[\[Code\]](https://github.com/YuHengsss/SD-RPN)
+
+*International Conference on Learning Representations (ICLR), 2026*
+
+---
+
+[Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation](https://arxiv.org/abs/2509.22093)
+
+Xiaohuan Pei, Yuxing Chen, **Yuheng Shi**, Siyu Xu, Yunke Wang, Chang Xu
+
+*International Conference on Learning Representations (ICLR), 2026*
+
+---
+
+[Practical Video Object Detection via Feature Selection and Aggregation](https://arxiv.org/abs/2407.19650)
+
+**Yuheng Shi**<sup>†</sup>, Tong Zhang<sup>†</sup>, Xiaojie Guo
+
+[\[Code\]](https://github.com/YuHengsss/YOLOV)
+
+*International Journal of Computer Vision (IJCV), 2026*
+
+---
+
+[VSSD: Vision Mamba with Non-Causal State Space Duality](https://openaccess.thecvf.com/content/ICCV2025/html/Shi_VSSD_Vision_Mamba_with_Non-Causal_State_Space_Duality_ICCV_2025_paper.html)
+
+**Yuheng Shi**, Minjing Dong, Mingjia Li, Chang Xu
+
+[\[Code\]](https://github.com/YuHengsss/VSSD)
+
+*IEEE/CVF International Conference on Computer Vision (ICCV), 2025*
+
+---
+
+[Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation](https://openaccess.thecvf.com/content/ICCV2025/html/Shi_Harnessing_Vision_Foundation_Models_for_High-Performance_Training-Free_Open_Vocabulary_Segmentation_ICCV_2025_paper.html)
+
+**Yuheng Shi**, Minjing Dong, Chang Xu
+
+[\[Code\]](https://github.com/YuHengsss/Trident)
+
+*IEEE/CVF International Conference on Computer Vision (ICCV), 2025*
+
+---
+
+[Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d69e771d9f274f7c624198ea74f5b98-Abstract-Conference.html)
+
+**Yuheng Shi**, Minjing Dong, Chang Xu
+
+[\[Code\]](https://github.com/YuHengsss/MSVMamba)
+
+*Conference on Neural Information Processing Systems (NeurIPS), 2024*
+
+---
+
+[YOLOV: Making Still Image Object Detectors Great at Video Object Detection](https://ojs.aaai.org/index.php/AAAI/article/view/25320)
+
+**Yuheng Shi**, Naiyan Wang, Xiaojie Guo
+
+[\[Code\]](https://github.com/YuHengsss/YOLOV)
+
+*AAAI Conference on Artificial Intelligence (AAAI), 2023*
 
 # 📄 Preprints
-- [Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models](https://arxiv.org/abs/2604.06912). **Yuheng Shi**, Xiaohuan Pei, Linfeng Wen, Minjing Dong, Chang Xu. *arXiv:2604.06912*, 2026. [\[Code\]](https://github.com/YuHengsss/Q-Zoom)
-- [TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios](https://arxiv.org/abs/2309.01539). **Yuheng Shi**, Zehao Huang, Yan Yan, Naiyan Wang, Xiaojie Guo. *arXiv:2309.01539*, 2023.
+
+[Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models](https://arxiv.org/abs/2604.06912)
+
+**Yuheng Shi**, Xiaohuan Pei, Linfeng Wen, Minjing Dong, Chang Xu
+
+[\[Code\]](https://github.com/YuHengsss/Q-Zoom)
+
+*arXiv:2604.06912*, 2026
+
+---
+
+[TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios](https://arxiv.org/abs/2309.01539)
+
+**Yuheng Shi**, Zehao Huang, Yan Yan, Naiyan Wang, Xiaojie Guo
+
+*arXiv:2309.01539*, 2023
 
 # 🎖 Honors and Awards
 - *2025*, Faculty of Engineering Research Support Scholarship, University of Sydney.
