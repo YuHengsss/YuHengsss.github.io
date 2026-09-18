@@ -15,6 +15,7 @@ published: false
 
 
 # 🔥 最新动态
+- *2026.09*: &nbsp;📄 新的预印本 "Region-Level Policy Optimization for Fine-grained MLLM Perception"（Vision-RL²）已发布于 [arXiv](https://arxiv.org/abs/2609.19745)，同时开源了[代码](https://github.com/YuHengsss/VisionRL2)、[模型权重](https://huggingface.co/collections/YuhengSSS/visionrl2)与[项目主页](https://yuhengsss.github.io/VisionRL2/)。
 - *2026.04*: &nbsp;📄 新的预印本 "Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models" 已发布于 [arXiv](https://arxiv.org/abs/2604.06912)。
 - *2026.01*: &nbsp;🎉 两篇论文被 **ICLR 2026** 接收！
 - *2026.01*: &nbsp;🎉 关于实用视频目标检测的论文被 **IJCV 2026** 接收。
@@ -109,6 +110,18 @@ published: false
 </div>
 
 # 📄 预印本
+
+<div class="pub-item" markdown="1">
+
+<div class="pub-title" markdown="span">[Region-Level Policy Optimization for Fine-grained MLLM Perception](https://arxiv.org/abs/2609.19745)</div>
+
+<div class="pub-authors" markdown="span">**Yuheng Shi**, Xiaohuan Pei, Minjing Dong, Chang Xu</div>
+
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/VisionRL2) [![stars](https://img.shields.io/github/stars/YuHengsss/VisionRL2?style=social)](https://github.com/YuHengsss/VisionRL2) [\[Project Page\]](https://yuhengsss.github.io/VisionRL2/) [\[Weights & Data\]](https://huggingface.co/collections/YuhengSSS/visionrl2)</div>
+
+<div class="pub-venue" markdown="span">arXiv:2609.19745, 2026</div>
+
+</div>
 
 <div class="pub-item" markdown="1">
 

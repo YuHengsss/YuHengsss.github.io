@@ -23,6 +23,7 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 
 # 🔥 News
+- *2026.09*: &nbsp;📄 New preprint "Region-Level Policy Optimization for Fine-grained MLLM Perception" (Vision-RL²) is on [arXiv](https://arxiv.org/abs/2609.19745), with [code](https://github.com/YuHengsss/VisionRL2), [weights](https://huggingface.co/collections/YuhengSSS/visionrl2) and a [project page](https://yuhengsss.github.io/VisionRL2/).
 - *2026.04*: &nbsp;📄 New preprint "Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models" is on [arXiv](https://arxiv.org/abs/2604.06912).
 - *2026.01*: &nbsp;🎉 Two papers accepted to **ICLR 2026**!
 - *2026.01*: &nbsp;🎉 Our paper on practical video object detection is accepted by **IJCV 2026**.
@@ -117,6 +118,18 @@ My research focuses on **efficient and generalizable visual perception**, includ
 </div>
 
 # 📄 Preprints
+
+<div class="pub-item" markdown="1">
+
+<div class="pub-title" markdown="span">[Region-Level Policy Optimization for Fine-grained MLLM Perception](https://arxiv.org/abs/2609.19745)</div>
+
+<div class="pub-authors" markdown="span">**Yuheng Shi**, Xiaohuan Pei, Minjing Dong, Chang Xu</div>
+
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/VisionRL2) [![stars](https://img.shields.io/github/stars/YuHengsss/VisionRL2?style=social)](https://github.com/YuHengsss/VisionRL2) [\[Project Page\]](https://yuhengsss.github.io/VisionRL2/) [\[Weights & Data\]](https://huggingface.co/collections/YuhengSSS/visionrl2)</div>
+
+<div class="pub-venue" markdown="span">arXiv:2609.19745, 2026</div>
+
+</div>
 
 <div class="pub-item" markdown="1">
 
