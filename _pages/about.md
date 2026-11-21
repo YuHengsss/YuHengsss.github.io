@@ -42,7 +42,7 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**, Xiaohuan Pei, Linfeng Wen, Minjing Dong, Chang Xu</div>
 
-<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/Q-Zoom) [![stars](https://img.shields.io/github/stars/YuHengsss/Q-Zoom?style=social)](https://github.com/YuHengsss/Q-Zoom)</div>
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/Q-Zoom) [![stars](https://img.shields.io/github/stars/YuHengsss/Q-Zoom?style=social)](https://github.com/YuHengsss/Q-Zoom) [![citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2FW7152513768%3Fselect%3Dcited_by_count&query=%24.cited_by_count&label=Citations&style=social&cacheSeconds=43200)](https://openalex.org/W7152513768)</div>
 
 <div class="pub-venue" markdown="span">IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2026</div>
 
@@ -54,7 +54,7 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**, Xiaohuan Pei, Minjing Dong, Chang Xu</div>
 
-<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/SD-RPN) [![stars](https://img.shields.io/github/stars/YuHengsss/SD-RPN?style=social)](https://github.com/YuHengsss/SD-RPN)</div>
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/SD-RPN) [![stars](https://img.shields.io/github/stars/YuHengsss/SD-RPN?style=social)](https://github.com/YuHengsss/SD-RPN) [![citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2FW4415252683%3Fselect%3Dcited_by_count&query=%24.cited_by_count&label=Citations&style=social&cacheSeconds=43200)](https://openalex.org/W4415252683)</div>
 
 <div class="pub-venue" markdown="span">International Conference on Learning Representations (ICLR), 2026</div>
 
@@ -66,7 +66,7 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**<sup>†</sup>, Tong Zhang<sup>†</sup>, Xiaojie Guo</div>
 
-<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/YOLOV) [![stars](https://img.shields.io/github/stars/YuHengsss/YOLOV?style=social)](https://github.com/YuHengsss/YOLOV)</div>
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/YOLOV) [![stars](https://img.shields.io/github/stars/YuHengsss/YOLOV?style=social)](https://github.com/YuHengsss/YOLOV) [![citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2FW7126182548%3Fselect%3Dcited_by_count&query=%24.cited_by_count&label=Citations&style=social&cacheSeconds=43200)](https://openalex.org/W7126182548)</div>
 
 <div class="pub-venue" markdown="span">International Journal of Computer Vision (IJCV), 2026</div>
 
@@ -78,7 +78,7 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**, Minjing Dong, Mingjia Li, Chang Xu</div>
 
-<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/VSSD) [![stars](https://img.shields.io/github/stars/YuHengsss/VSSD?style=social)](https://github.com/YuHengsss/VSSD)</div>
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/VSSD) [![stars](https://img.shields.io/github/stars/YuHengsss/VSSD?style=social)](https://github.com/YuHengsss/VSSD) [![citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2FW4406443874%3Fselect%3Dcited_by_count&query=%24.cited_by_count&label=Citations&style=social&cacheSeconds=43200)](https://openalex.org/W4406443874)</div>
 
 <div class="pub-venue" markdown="span">IEEE/CVF International Conference on Computer Vision (ICCV), 2025</div>
 
@@ -90,7 +90,7 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**, Minjing Dong, Chang Xu</div>
 
-<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/Trident) [![stars](https://img.shields.io/github/stars/YuHengsss/Trident?style=social)](https://github.com/YuHengsss/Trident)</div>
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/Trident) [![stars](https://img.shields.io/github/stars/YuHengsss/Trident?style=social)](https://github.com/YuHengsss/Trident) [![citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2FW7160052237%3Fselect%3Dcited_by_count&query=%24.cited_by_count&label=Citations&style=social&cacheSeconds=43200)](https://openalex.org/W7160052237)</div>
 
 <div class="pub-venue" markdown="span">IEEE/CVF International Conference on Computer Vision (ICCV), 2025</div>
 
@@ -102,7 +102,7 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**, Minjing Dong, Chang Xu</div>
 
-<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/MSVMamba) [![stars](https://img.shields.io/github/stars/YuHengsss/MSVMamba?style=social)](https://github.com/YuHengsss/MSVMamba)</div>
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/MSVMamba) [![stars](https://img.shields.io/github/stars/YuHengsss/MSVMamba?style=social)](https://github.com/YuHengsss/MSVMamba) [![citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2FW4415798456%3Fselect%3Dcited_by_count&query=%24.cited_by_count&label=Citations&style=social&cacheSeconds=43200)](https://openalex.org/W4415798456)</div>
 
 <div class="pub-venue" markdown="span">Conference on Neural Information Processing Systems (NeurIPS), 2024</div>
 
@@ -114,7 +114,7 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**, Naiyan Wang, Xiaojie Guo</div>
 
-<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/YOLOV) [![stars](https://img.shields.io/github/stars/YuHengsss/YOLOV?style=social)](https://github.com/YuHengsss/YOLOV)</div>
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/YOLOV) [![stars](https://img.shields.io/github/stars/YuHengsss/YOLOV?style=social)](https://github.com/YuHengsss/YOLOV) [![citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2FW4382469019%3Fselect%3Dcited_by_count&query=%24.cited_by_count&label=Citations&style=social&cacheSeconds=43200)](https://openalex.org/W4382469019)</div>
 
 <div class="pub-venue" markdown="span">AAAI Conference on Artificial Intelligence (AAAI), 2023</div>
 
@@ -125,6 +125,8 @@ My research focuses on **efficient and generalizable visual perception**, includ
 <div class="pub-title" markdown="span">[Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation](https://arxiv.org/abs/2509.22093)</div>
 
 <div class="pub-authors" markdown="span">Xiaohuan Pei, Yuxing Chen, **Yuheng Shi**, Siyu Xu, Yunke Wang, Chang Xu</div>
+
+<div class="pub-links" markdown="span">[![citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2FW7083693084%3Fselect%3Dcited_by_count&query=%24.cited_by_count&label=Citations&style=social&cacheSeconds=43200)](https://openalex.org/W7083693084)</div>
 
 <div class="pub-venue" markdown="span">International Conference on Learning Representations (ICLR), 2026</div>
 
@@ -138,7 +140,7 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**, Xiaohuan Pei, Minjing Dong, Chang Xu</div>
 
-<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/VisionRL2) [![stars](https://img.shields.io/github/stars/YuHengsss/VisionRL2?style=social)](https://github.com/YuHengsss/VisionRL2) [\[Project Page\]](https://yuhengsss.github.io/VisionRL2/) [\[Weights & Data\]](https://huggingface.co/collections/YuhengSSS/visionrl2)</div>
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/VisionRL2) [![stars](https://img.shields.io/github/stars/YuHengsss/VisionRL2?style=social)](https://github.com/YuHengsss/VisionRL2) [\[Project Page\]](https://yuhengsss.github.io/VisionRL2/) [\[Weights & Data\]](https://huggingface.co/collections/YuhengSSS/visionrl2) [![citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2FW7213590180%3Fselect%3Dcited_by_count&query=%24.cited_by_count&label=Citations&style=social&cacheSeconds=43200)](https://openalex.org/W7213590180)</div>
 
 <div class="pub-venue" markdown="span">arXiv:2609.19745, 2026</div>
 
@@ -150,7 +152,7 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**, Zehao Huang, Yan Yan, Naiyan Wang, Xiaojie Guo</div>
 
-<div class="pub-links" markdown="span">[\[Code\]](https://github.com/tusen-ai/TSTTC)</div>
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/tusen-ai/TSTTC) [![citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.openalex.org%2Fworks%2FW4386555749%3Fselect%3Dcited_by_count&query=%24.cited_by_count&label=Citations&style=social&cacheSeconds=43200)](https://openalex.org/W4386555749)</div>
 
 <div class="pub-venue" markdown="span">arXiv:2309.01539, 2023</div>
 
