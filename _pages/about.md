@@ -62,16 +62,6 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 <div class="pub-item" markdown="1">
 
-<div class="pub-title" markdown="span">[Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation](https://arxiv.org/abs/2509.22093)</div>
-
-<div class="pub-authors" markdown="span">Xiaohuan Pei, Yuxing Chen, **Yuheng Shi**, Siyu Xu, Yunke Wang, Chang Xu</div>
-
-<div class="pub-venue" markdown="span">International Conference on Learning Representations (ICLR), 2026</div>
-
-</div>
-
-<div class="pub-item" markdown="1">
-
 <div class="pub-title" markdown="span">[Practical Video Object Detection via Feature Selection and Aggregation](https://arxiv.org/abs/2407.19650)</div>
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**<sup>†</sup>, Tong Zhang<sup>†</sup>, Xiaojie Guo</div>
@@ -127,6 +117,16 @@ My research focuses on **efficient and generalizable visual perception**, includ
 <div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/YOLOV) [![stars](https://img.shields.io/github/stars/YuHengsss/YOLOV?style=social)](https://github.com/YuHengsss/YOLOV)</div>
 
 <div class="pub-venue" markdown="span">AAAI Conference on Artificial Intelligence (AAAI), 2023</div>
+
+</div>
+
+<div class="pub-item" markdown="1">
+
+<div class="pub-title" markdown="span">[Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation](https://arxiv.org/abs/2509.22093)</div>
+
+<div class="pub-authors" markdown="span">Xiaohuan Pei, Yuxing Chen, **Yuheng Shi**, Siyu Xu, Yunke Wang, Chang Xu</div>
+
+<div class="pub-venue" markdown="span">International Conference on Learning Representations (ICLR), 2026</div>
 
 </div>
 
