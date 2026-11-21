@@ -15,6 +15,7 @@ published: false
 
 
 # 🔥 最新动态
+- *2026.11*: &nbsp;🎉 "Q-Zoom" 被 **T-PAMI** 接收。
 - *2026.09*: &nbsp;📄 新的预印本 "Region-Level Policy Optimization for Fine-grained MLLM Perception"（Vision-RL²）已发布于 [arXiv](https://arxiv.org/abs/2609.19745)，同时开源了[代码](https://github.com/YuHengsss/VisionRL2)、[模型权重](https://huggingface.co/collections/YuhengSSS/visionrl2)与[项目主页](https://yuhengsss.github.io/VisionRL2/)。
 - *2026.04*: &nbsp;📄 新的预印本 "Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models" 已发布于 [arXiv](https://arxiv.org/abs/2604.06912)。
 - *2026.01*: &nbsp;🎉 两篇论文被 **ICLR 2026** 接收！
@@ -26,6 +27,18 @@ published: false
 # 📝 论文发表
 
 <sup>†</sup> 表示同等贡献。
+
+<div class="pub-item" markdown="1">
+
+<div class="pub-title" markdown="span">[Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models](https://arxiv.org/abs/2604.06912)</div>
+
+<div class="pub-authors" markdown="span">**Yuheng Shi**, Xiaohuan Pei, Linfeng Wen, Minjing Dong, Chang Xu</div>
+
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/Q-Zoom) [![stars](https://img.shields.io/github/stars/YuHengsss/Q-Zoom?style=social)](https://github.com/YuHengsss/Q-Zoom)</div>
+
+<div class="pub-venue" markdown="span">IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2026</div>
+
+</div>
 
 <div class="pub-item" markdown="1">
 
@@ -125,18 +138,6 @@ published: false
 
 <div class="pub-item" markdown="1">
 
-<div class="pub-title" markdown="span">[Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models](https://arxiv.org/abs/2604.06912)</div>
-
-<div class="pub-authors" markdown="span">**Yuheng Shi**, Xiaohuan Pei, Linfeng Wen, Minjing Dong, Chang Xu</div>
-
-<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/Q-Zoom) [![stars](https://img.shields.io/github/stars/YuHengsss/Q-Zoom?style=social)](https://github.com/YuHengsss/Q-Zoom)</div>
-
-<div class="pub-venue" markdown="span">arXiv:2604.06912, 2026</div>
-
-</div>
-
-<div class="pub-item" markdown="1">
-
 <div class="pub-title" markdown="span">[TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios](https://arxiv.org/abs/2309.01539)</div>
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**, Zehao Huang, Yan Yan, Naiyan Wang, Xiaojie Guo</div>
@@ -161,5 +162,5 @@ published: false
 - *2022 – 2023*，图森未来（TuSimple）算法实习生。导师：王乃岩、黄泽昊。
 
 # 🛎 学术服务
-- **会议审稿人**：NeurIPS、ICLR、ICML、ICCV。
-- **期刊审稿人**：T-PAMI、TMLR。
+- **会议审稿人**：NeurIPS、ICLR、ICML、ICCV、ECCV、AAAI。
+- **期刊审稿人**：T-PAMI、TMLR、TMM、Neurocomputing。

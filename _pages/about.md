@@ -23,6 +23,7 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉 "Q-Zoom" accepted to **T-PAMI**.
 - *2026.09*: &nbsp;📄 New preprint "Region-Level Policy Optimization for Fine-grained MLLM Perception" (Vision-RL²) is on [arXiv](https://arxiv.org/abs/2609.19745), with [code](https://github.com/YuHengsss/VisionRL2), [weights](https://huggingface.co/collections/YuhengSSS/visionrl2) and a [project page](https://yuhengsss.github.io/VisionRL2/).
 - *2026.04*: &nbsp;📄 New preprint "Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models" is on [arXiv](https://arxiv.org/abs/2604.06912).
 - *2026.01*: &nbsp;🎉 Two papers accepted to **ICLR 2026**!
@@ -34,6 +35,18 @@ My research focuses on **efficient and generalizable visual perception**, includ
 # 📝 Publications
 
 <sup>†</sup> denotes equal contribution.
+
+<div class="pub-item" markdown="1">
+
+<div class="pub-title" markdown="span">[Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models](https://arxiv.org/abs/2604.06912)</div>
+
+<div class="pub-authors" markdown="span">**Yuheng Shi**, Xiaohuan Pei, Linfeng Wen, Minjing Dong, Chang Xu</div>
+
+<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/Q-Zoom) [![stars](https://img.shields.io/github/stars/YuHengsss/Q-Zoom?style=social)](https://github.com/YuHengsss/Q-Zoom)</div>
+
+<div class="pub-venue" markdown="span">IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2026</div>
+
+</div>
 
 <div class="pub-item" markdown="1">
 
@@ -133,18 +146,6 @@ My research focuses on **efficient and generalizable visual perception**, includ
 
 <div class="pub-item" markdown="1">
 
-<div class="pub-title" markdown="span">[Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models](https://arxiv.org/abs/2604.06912)</div>
-
-<div class="pub-authors" markdown="span">**Yuheng Shi**, Xiaohuan Pei, Linfeng Wen, Minjing Dong, Chang Xu</div>
-
-<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/Q-Zoom) [![stars](https://img.shields.io/github/stars/YuHengsss/Q-Zoom?style=social)](https://github.com/YuHengsss/Q-Zoom)</div>
-
-<div class="pub-venue" markdown="span">arXiv:2604.06912, 2026</div>
-
-</div>
-
-<div class="pub-item" markdown="1">
-
 <div class="pub-title" markdown="span">[TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios](https://arxiv.org/abs/2309.01539)</div>
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**, Zehao Huang, Yan Yan, Naiyan Wang, Xiaojie Guo</div>
@@ -171,5 +172,5 @@ My research focuses on **efficient and generalizable visual perception**, includ
 - *2022 – 2023*, Research Intern, TuSimple. Supervised by Dr. Naiyan Wang and Zehao Huang.
 
 # 🛎 Academic Services
-- **Conference Reviewer**: NeurIPS, ICLR, ICML, ICCV, ECCV.
-- **Journal Reviewer**: T-PAMI, TMLR, Neurocomputing.
+- **Conference Reviewer**: NeurIPS, ICLR, ICML, ICCV, ECCV, AAAI.
+- **Journal Reviewer**: T-PAMI, TMLR, TMM, Neurocomputing.
