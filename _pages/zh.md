@@ -24,7 +24,7 @@ published: false
 - *2025.07*: &nbsp;🎉 两篇论文被 **ICCV 2025** 接收。
 - *2024.09*: &nbsp;🎉 "Multi-Scale VMamba" 被 **NeurIPS 2024** 接收。
 
-# 📝 论文发表
+# 📝 代表性论文
 
 <sup>†</sup> 表示同等贡献。
 

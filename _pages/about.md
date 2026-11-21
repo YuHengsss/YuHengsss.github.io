@@ -32,7 +32,7 @@ My research focuses on **efficient and generalizable visual perception**, includ
 - *2025.07*: &nbsp;🎉 Two papers accepted to **ICCV 2025**.
 - *2024.09*: &nbsp;🎉 "Multi-Scale VMamba" accepted to **NeurIPS 2024**.
 
-# 📝 Publications
+# 📝 Selected Publications
 
 <sup>†</sup> denotes equal contribution.
 
