@@ -30,11 +30,11 @@ published: false
 
 <div class="pub-item" markdown="1">
 
-<div class="pub-title" markdown="span">[Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models](https://arxiv.org/abs/2604.06912)</div>
+<div class="pub-title" markdown="span">[Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models](https://doi.org/10.1109/TPAMI.2026.3756943)</div>
 
 <div class="pub-authors" markdown="span">**Yuheng Shi**, Xiaohuan Pei, Linfeng Wen, Minjing Dong, Chang Xu</div>
 
-<div class="pub-links" markdown="span">[\[Code\]](https://github.com/YuHengsss/Q-Zoom) [![stars](https://img.shields.io/github/stars/YuHengsss/Q-Zoom?style=social)](https://github.com/YuHengsss/Q-Zoom) [![citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FYuHengsss%2FYuHengsss.github.io%2Fgoogle-scholar-stats%2Fcite_ULOm3_A8WrAC.json&label=Citations&style=social&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sn2PeEkAAAAJ&citation_for_view=sn2PeEkAAAAJ:ULOm3_A8WrAC)</div>
+<div class="pub-links" markdown="span">[\[arXiv\]](https://arxiv.org/abs/2604.06912) [\[Code\]](https://github.com/YuHengsss/Q-Zoom) [![stars](https://img.shields.io/github/stars/YuHengsss/Q-Zoom?style=social)](https://github.com/YuHengsss/Q-Zoom) [![citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FYuHengsss%2FYuHengsss.github.io%2Fgoogle-scholar-stats%2Fcite_ULOm3_A8WrAC.json&label=Citations&style=social&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sn2PeEkAAAAJ&citation_for_view=sn2PeEkAAAAJ:ULOm3_A8WrAC)</div>
 
 <div class="pub-venue" markdown="span">IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2026</div>
 
